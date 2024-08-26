@@ -1,7 +1,7 @@
 {
   "name": "rcrx",
-  "version": "0.0.2",
-  "description": "Rx.js utilities for React.",
+  "version": "0.0.3",
+  "description": "Rcrx is a lightweight library that provides Rx.js utilities for React applications.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "scripts": {
